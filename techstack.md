@@ -24,8 +24,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gujarat-titans/bitbucket](https://github.com/gujarat-titans/bitbucket)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|26<br/>Contributors|11/08/23 <br/>Report generated|07/30/19<br/>Last commit date|
-|------|------|------|------|
+|4<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
